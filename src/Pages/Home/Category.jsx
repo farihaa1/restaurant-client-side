@@ -26,25 +26,25 @@ const Category = () => {
         modules={[Pagination]}
         className="mySwiper"
       >
-        <SwiperSlide className="flex flex-col gap-3  py-10">
+        <SwiperSlide className="flex flex-col py-10">
           <img src="../../../home/slide1.jpg" alt="" />
-          <h3 className="text-2xl uppercase font-semibold">Salads</h3>
+          <h3 className="text-3xl bg-black bg-opacity-25 text-white w-full uppercase font-semibold -mt-20 py-6 mb-20">Salads</h3>
         </SwiperSlide>
-        <SwiperSlide className="flex flex-col gap-3  py-10">
+        <SwiperSlide className="flex flex-col py-10">
           <img src="../../../home/slide2.jpg" alt="" />
-          <h3 className="text-2xl uppercase font-semibold">Pizzas</h3>
+          <h3 className="text-3xl bg-black bg-opacity-25 text-white w-full uppercase font-semibold -mt-20 py-6 mb-20">Pizzas</h3>
         </SwiperSlide>
-        <SwiperSlide className="flex flex-col gap-3  py-10">
+        <SwiperSlide className="flex flex-col py-10">
           <img src="../../../home/slide3.jpg" alt="" />
-          <h3 className="text-2xl uppercase font-semibold">Soups</h3>
+          <h3 className="text-3xl bg-black bg-opacity-25 text-white w-full uppercase font-semibold -mt-20 py-6 mb-20">Soups</h3>
         </SwiperSlide>
-        <SwiperSlide className="flex flex-col gap-3  py-10">
+        <SwiperSlide className="flex flex-col py-10">
           <img src="../../../home/slide4.jpg" alt="" />
-          <h3 className="text-2xl uppercase font-semibold">desert</h3>
+          <h3 className="text-3xl bg-black bg-opacity-25 text-white w-full uppercase font-semibold -mt-20 py-6 mb-20">desert</h3>
         </SwiperSlide>
-        <SwiperSlide className="flex flex-col gap-3  py-10">
+        <SwiperSlide className="flex flex-col py-10">
           <img src="../../../home/slide5.jpg" alt="" />
-          <h3 className="text-2xl uppercase font-semibold">Salads</h3>
+          <h3 className="text-3xl bg-black bg-opacity-25 text-white w-full uppercase font-semibold -mt-20 py-6 mb-20">Salads</h3>
         </SwiperSlide>
         
       </Swiper>

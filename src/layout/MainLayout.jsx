@@ -5,8 +5,8 @@ import Navbar from "../Pages/Shared/Navbar";
 
 const MainLayout = () => {
   return (
-    <div className="px-12">
-      <nav>
+    <div >
+      <nav className="w-full ">
         <Navbar></Navbar>
       </nav>
       <div>
